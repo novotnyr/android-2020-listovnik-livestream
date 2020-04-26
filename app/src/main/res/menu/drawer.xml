@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Shop" />
+    <item android:title="Videos" />
+    <item android:title="Books" />
+
+    <item android:title="Setting" />
+</menu>
